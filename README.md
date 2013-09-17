@@ -39,6 +39,6 @@ Todos esses processos serão descritos nos demais arquivos.
   * ...
 
 # Lista de repositórios
-  * [go-js/docs](https://github.com/go-js/docs) - Este repositório, dedicado aos arquivos da comunidade.
+  * [go-js/go-js](https://github.com/go-js/docs) - Este repositório, dedicado aos arquivos gerais da comunidade, sistema de `issues` para novas ideais, etc.
   * [go-js/go-js.org](https://github.com/go-js/go-js.org) - Repositório do nosso site
   * ...
