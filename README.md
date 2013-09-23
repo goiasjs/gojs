@@ -1,7 +1,7 @@
-GO-JS Docs
+GOJS Docs
 ==========
 
-Bem vindo ao GO-JS!
+Bem vindo ao GOJS!
 Neste repositório mantemos nossos documentos oficiais.
 
 **Porquê manter os arquivos aqui, assim?**
@@ -31,14 +31,14 @@ Todos esses processos serão descritos nos demais arquivos.
 
 # Lista dos arquivos
 
-  * [README.md](https://github.com/go-js/docs/blob/master/README.md) - Este arquivo.
-  * [PEOPLE.md](https://github.com/go-js/docs/blob/master/PEOPLE.md) - "'Cause that's what we are". Lista das pessoas que fazem o GO-JS acontecer.
-  * [CONTRIBUTING.md](https://github.com/go-js/docs/blob/master/CONTRIBUTING.md) - Como contribuir para GO-JS de forma geral. Nossos processos; Como propor uma mudança, etc.
-  * [ESTATUTO.md](https://github.com/go-js/docs/blob/master/ESTATUTO.md) - Nosso estatuto
-  * [REGRAS.md](https://github.com/go-js/docs/blob/master/REGRAS.md) - Regras do nosso fórum / grupo de emails / grupo no facebook...
+  * [README.md](https://github.com/goiasjs/docs/blob/master/README.md) - Este arquivo.
+  * [PEOPLE.md](https://github.com/goiasjs/docs/blob/master/PEOPLE.md) - "'Cause that's what we are". Lista das pessoas que fazem o GOJS acontecer.
+  * [CONTRIBUTING.md](https://github.com/goiasjs/docs/blob/master/CONTRIBUTING.md) - Como contribuir para GOJS de forma geral. Nossos processos; Como propor uma mudança, etc.
+  * [ESTATUTO.md](https://github.com/goiasjs/docs/blob/master/ESTATUTO.md) - Nosso estatuto
+  * [REGRAS.md](https://github.com/goiasjs/docs/blob/master/REGRAS.md) - Regras do nosso fórum / grupo de emails / grupo no facebook...
   * ...
 
 # Lista de repositórios
-  * [go-js/go-js](https://github.com/go-js/docs) - Este repositório, dedicado aos arquivos gerais da comunidade, sistema de `issues` para novas ideais, etc.
-  * [go-js/go-js.org](https://github.com/go-js/go-js.org) - Repositório do nosso site
+  * [goiasjs/gojs](https://github.com/goiasjs/gojs) - Este repositório, dedicado aos arquivos gerais da comunidade, sistema de `issues` para novas ideais, etc.
+  * [goiasjs/gojs.org](https://github.com/goiasjs/gojs.org) - Repositório do nosso site
   * ...
