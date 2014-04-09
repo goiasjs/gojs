@@ -11,3 +11,6 @@
 
 # Balanço:
   * Entradas - Saídas: R$ 243,24 - R$ 191,76 = **R$ 51,48**
+
+# Comprovantes:
+  * https://github.com/goiasjs/gojs/tree/master/eventos/workshop2014-1/balanco/comprovantes
