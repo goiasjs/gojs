@@ -7,9 +7,9 @@ Luiz Filho | 03/06/2014 | Domínio 2º e 3º anos | 82,23
 
 # Ganhos
 
-Quando | O quê | Quanto
--------|-------|-------
-09/04/2014 | Lucro 1º Workshop | R$ 51,48
+Quando | O quê | Quanto R$
+-------|-------|----------
+09/04/2014 | Lucro 1º Workshop | 51,48
 
 # Ressarcimentos / Pendências
 
@@ -20,6 +20,6 @@ Pendência | Luiz Filho | 47,14
 
 # Saldo total
 
-Quando | Quantia
+Quando | Quanto R$
 -------|--------
 01/06/2014 | -R$ 47,14
